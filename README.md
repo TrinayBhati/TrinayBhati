@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **bhatiji780780@gmail.com**
 
-- ⚡ Fun fact **While I code pixel-perfect interfaces by day, I'm on a quest to uncover the most epic anime adventures by night**
+- ⚡ Fun fact : **While I code pixel-perfect interfaces by day, I'm on a quest to uncover the most epic anime adventures by night**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
