@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/clever_cactus_" target="blank"><img src="https://img.shields.io/twitter/follow/clever_cactus_?logo=twitter&style=for-the-badge" alt="clever_cactus_" /></a> </p>
 
-- 🔭 I’m currently working on [Amazon Clone](https://amazon-clone-trinay.netlify.app/)
+- 🔭 I’m currently working on [watchBox](https://watchbox-tv.netlify.app/)
+
+- 🛒 Previously orked on [Amazon Clone](https://amazon-clone-trinay.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
